@@ -12,21 +12,11 @@ Desenvolvedor de Software focado em construir aplicações robustas, eficientes 
 
 ---
 
-### 📌 Projetos em Destaque
-
-* **[projeto-bonito](https://github.com/seu-usuario/projeto-bonito)** 🛠️
-  *Aplicação de construção de roteiros desenvolvida com foco em experiência do usuário e usabilidade.*
-  * **Techs:** React, TypeScript.
-
-* **[Nome do seu Projeto Java]** ☕
-  *API/Aplicação focada em lógica estruturada e regras de negócio robustas.*
-  * **Techs:** Java.
-
 ---
 
 ### 📫 Conecte-se comigo
 
 Seja para conversar sobre tecnologia, desenvolvimento ou oportunidades de estágio, sinta-se à vontade para me chamar!
 
-* **LinkedIn:** [Apenas substitua pelo link do seu perfil]
-* **E-mail:** [Seu e-mail de contato]
+* **LinkedIn:** www.linkedin.com/in/joao-pedro-fonseca-castanheira-justiniano-502b14381
+* **E-mail:** joaopedrocastanheira1@gmail.com
